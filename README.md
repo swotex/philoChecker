@@ -10,3 +10,5 @@ launch the tester with the parameters to test on philo. Like this:
 The tester try your project whith 10 second of timeout.
 
 The tester check also the data race or possible data race.
+
+The tester not work on bonus (whith fork).
